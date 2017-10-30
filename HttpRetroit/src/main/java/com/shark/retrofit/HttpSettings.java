@@ -22,7 +22,7 @@ package com.shark.retrofit;
  * @author Renyuxiang
  * @since 1.0
  */
-public class FrameworkSettings {
+public class HttpSettings {
 
     public static final boolean IS_DEBUG_MODE =  true;
     public static final String APP_LOG_TAG = "[HTTP]";
